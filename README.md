@@ -5,7 +5,8 @@ Designer&nbsp;&nbsp;&nbsp;：幼幼保护协会 @Coolapk
 Developer ：Leon连续 @Coolapk
 
 **The Fork**
-I use to use the bones of this project to build my own icon pack.
+
+I plan to use the bones of this project to build my own icon pack.
 
 ### License
 ```
