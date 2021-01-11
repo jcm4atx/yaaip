@@ -8,6 +8,8 @@ Developer ：Leon连续 @Coolapk
 
 I plan to use the bones of this project to build my own icon pack.
 
+Laste updated: 2021-01-11T17:42:00CST
+
 ### License
 ```
 Copyright 2017 iAcn
