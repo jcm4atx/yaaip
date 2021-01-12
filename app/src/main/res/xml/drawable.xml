@@ -3,7 +3,11 @@
 
     <version>1</version>
 
+    <item drawable="books" />
+    <item drawable="cryptocurrency" />
     <item drawable="flex" />
+    <item drawable="mosaic" />
     <item drawable="raspberrypi" />
+    <item drawable="worldcitizen" />
 
 </resources>
