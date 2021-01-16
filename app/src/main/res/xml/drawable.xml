@@ -8,6 +8,7 @@
     <item drawable="flex" />
     <item drawable="mosaic" />
     <item drawable="raspberrypi" />
+    <item drawable="shiori" />
     <item drawable="worldcitizen" />
 
 </resources>
